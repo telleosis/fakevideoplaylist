@@ -1,4 +1,5 @@
-[
+{
+  "videoplaylist": [
   {
     "id": 1,
     "title": "Video 1",
@@ -13,6 +14,6 @@
     "id": 3,
     "title": "Video 3",
     "url": "https://youtu.be/dxnJv6ICVNE?si=0xwmDZN2cpwgPbR_"
-  }
-]
-
+  },
+],
+}
